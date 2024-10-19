@@ -19,7 +19,7 @@ By understanding the performance trends of Rio de Janeiro's four major teams, st
 
 # Tools Used
 
-Python: For data analysis and wrangling.
-Pandas: To clean the data and build a pivot table showing the rankings of the top teams.
-API-FOOTBALL: For retrieving historical match data.
-Jupyter Notebook: For code execution and visualization of the analysis.
+- Python: For data analysis and wrangling.
+- Pandas: To clean the data and build a pivot table showing the rankings of the top teams.
+- API-FOOTBALL: For retrieving historical match data.
+- Jupyter Notebook: For code execution and visualization of the analysis.
